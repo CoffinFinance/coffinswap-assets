@@ -10,7 +10,7 @@
     "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/icon-coffin-512.png",
     "keywords": ["fantom", "coffin", "default"],
     "tokens": [
-      {
+      { 
         "name": "Fantom",
         "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
         "symbol": "WFTM",
