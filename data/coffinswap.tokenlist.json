@@ -1,8 +1,5 @@
 
 {
-  "ms": 25,
-  "query": "",
-  "result": {
 
       "name": "CoffinSwap",
       "timestamp": "2022-2-22 18:18:18",
@@ -69,5 +66,3 @@
     
       ]
     }
-  }
-}
