@@ -4,70 +4,70 @@
   "query": "",
   "result": {
 
-    "name": "CoffinSwap",
-    "timestamp": "2022-2-22 18:18:18",
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 2
-    },
-    "tags": {},
-    "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/icon-coffin-512.png",
-    "keywords": ["fantom", "coffin", "default"],
-    "tokens": [
-      { 
-        "name": "Fantom",
-        "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
-        "symbol": "WFTM",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/fantom-ftm-logo.png"
+      "name": "CoffinSwap",
+      "timestamp": "2022-2-22 18:18:18",
+      "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 2
       },
-      {
-        "name": "COFFIN",
-        "address": "0x593Ab53baFfaF1E821845cf7080428366F030a9c",
-        "symbol": "COFFIN",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/icon-coffin-512.png"
-      },
-      
-      {
-        "name": "xCOFFIN",
-        "address": "0xc8a0a1b63F65C53F565ddDB7fbcfdd2eaBE868ED",
-        "symbol": "CoUSD",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/icon-xcoffin-512.png"
-      },
-      {
-        "name": "CoUSD",
-        "address": "0x0DeF844ED26409C5C46dda124ec28fb064D90D27",
-        "symbol": "CoUSD",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/icon-cousd-512.png"
-      },
-      {
-        "name": "USDC",
-        "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
-        "symbol": "USDC",
-        "decimals": 6,
-        "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/usd-coin-usdc-logo.png"
-      },
-  
-      {
-        "name": "DAI",
-        "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-        "symbol": "DAI",
-        "decimals": 18,
-        "chainId": 250,
-        "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/multi-collateral-dai-dai-logo.png"
-      }
-      
-  
-    ]
-  }
+      "tags": {},
+      "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/icon-coffin-512.png",
+      "keywords": ["fantom", "coffin", "default"],
+      "tokens": [
+        { 
+          "name": "Fantom",
+          "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+          "symbol": "WFTM",
+          "decimals": 18,
+          "chainId": 250,
+          "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/fantom-ftm-logo.png"
+        },
+        {
+          "name": "COFFIN",
+          "address": "0x593Ab53baFfaF1E821845cf7080428366F030a9c",
+          "symbol": "COFFIN",
+          "decimals": 18,
+          "chainId": 250,
+          "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/icon-coffin-512.png"
+        },
+        
+        {
+          "name": "xCOFFIN",
+          "address": "0xc8a0a1b63F65C53F565ddDB7fbcfdd2eaBE868ED",
+          "symbol": "CoUSD",
+          "decimals": 18,
+          "chainId": 250,
+          "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/icon-xcoffin-512.png"
+        },
+        {
+          "name": "CoUSD",
+          "address": "0x0DeF844ED26409C5C46dda124ec28fb064D90D27",
+          "symbol": "CoUSD",
+          "decimals": 18,
+          "chainId": 250,
+          "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/icon-cousd-512.png"
+        },
+        {
+          "name": "USDC",
+          "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+          "symbol": "USDC",
+          "decimals": 6,
+          "chainId": 250,
+          "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/usd-coin-usdc-logo.png"
+        },
+    
+        {
+          "name": "DAI",
+          "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+          "symbol": "DAI",
+          "decimals": 18,
+          "chainId": 250,
+          "logoURI": "https://raw.githubusercontent.com/CoffinFinance/coffinswap-assets/main/assets/multi-collateral-dai-dai-logo.png"
+        }
+        
+    
+      ]
     }
+  }
 }
